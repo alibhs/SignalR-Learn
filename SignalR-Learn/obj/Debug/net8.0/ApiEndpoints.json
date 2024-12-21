@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "SignalR_Learn.Controllers.HomeController",
+    "Method": "Index",
+    "RelativePath": "api/Home/message",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "message",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
